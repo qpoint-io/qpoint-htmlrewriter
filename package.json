@@ -1,0 +1,25 @@
+{
+  "name": "@qpoint/htmlrewriter",
+  "version": "0.0.1",
+  "description": "This shims htmlrewriter into the global context if it doesn't exist already.",
+  "homepage": "https://qpoint.io",
+  "author": "Jon Friesen <jon@qpoint.io>",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "htmlrewriter": "^0.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
