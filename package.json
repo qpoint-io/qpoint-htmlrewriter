@@ -1,6 +1,6 @@
 {
   "name": "@qpoint/htmlrewriter",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "This shims htmlrewriter into the global context if it doesn't exist already.",
   "homepage": "https://qpoint.io",
   "author": "Jon Friesen <jon@qpoint.io>",
